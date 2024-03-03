@@ -1,2 +1,2 @@
 Animal Matching Game (C#)
-![Game](/Images/game.png)
+![Game](BlazorMatchGame/Images/game.png)
